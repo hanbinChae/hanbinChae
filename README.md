@@ -50,13 +50,14 @@ And I want to work with a positive person who can create synergy when working to
 
 #### Tools & Hosting
 <span>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white">  
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white">  
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=AndroidStudio&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flatsquare&logo=MicrosoftExcel&logoColor=white"><span/>
- <br>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flatsquare&logo=MicrosoftExcel&logoColor=white">
+<span/>
+  <br>
 <span>  
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
 </span>  
