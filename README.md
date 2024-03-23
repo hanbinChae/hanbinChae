@@ -69,6 +69,5 @@ And I want to work with a positive person who can create synergy when working to
 ## Contact me
 <span>
   <a href="https://hanbinchae.notion.site/hanbinchae/ffe5efd6058e495ba47eac182fc8e2d7"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"></a>
-  <a href="https://www.instagram.com/me_chae.hanbin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
   <a href="mailto:hanbin2043@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </span>
