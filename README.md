@@ -13,7 +13,13 @@ And I want to work with a positive person who can create synergy when working to
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8b9CC?style=flat-square&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-DA1F26?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
+</span>
+ <br>
+ <span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </span>
  <br>
 <span>
@@ -25,8 +31,6 @@ And I want to work with a positive person who can create synergy when working to
 </span>
 
 #### DevOps
-
- <br>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
