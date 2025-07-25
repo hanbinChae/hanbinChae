@@ -22,14 +22,10 @@ And I want to work with a positive person who can create synergy when working to
  <br>
 <span>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
 </span>
 
 #### DevOps
 
-<span>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white">
-</span>
  <br>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
