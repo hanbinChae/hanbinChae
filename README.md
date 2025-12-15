@@ -35,6 +35,7 @@ And I want to work with a positive person who can create synergy when working to
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB Badge">
+  <img src="https://img.shields.io/badge/MongoDB-003545?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB Badge">
 </span>
 
 #### Frontend
